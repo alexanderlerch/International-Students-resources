@@ -8,6 +8,7 @@
 
 ## Revoked visas
 https://www.insidehighered.com/news/global/international-students-us/2025/04/07/where-students-have-had-their-visas-revoked
+https://www.nbcnews.com/news/asian-america/international-students-revoked-visas-reasons-why-rcna200313
 
 ## Travel and reentry
 
