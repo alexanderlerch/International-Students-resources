@@ -3,7 +3,7 @@
 The number of international students has reached a new record high[^1] after a pandemic-related dip. More than 6800 international students were enrolled at GT in Georgia for the 2024/25 academic year.
 The Trump administration's executive orders, policies and process changes [^2][^3] have created considerable anxiety among the international acdemic community concerning travel and reentry into the United States, visa status, and the risk of non-citizens being questioned and detained.
 
-This repository collects information and links to resources for international students to understand requirements, prepare and implement best practices, and enable informed decisions.
+This repository collects information and links to resources for international students to understand requirements, prepare and implement best practices, and enable informed decisions. Please consider contributing additional information through a PR, an issue, or by sending my an [email](mailto:alexander.lerch@gatech.edu).
 
 ## General info and resources
 * options for [legal advise](https://isss.oie.gatech.edu/content/seeking-legal-consultation-us) with [potential financial support](https://star.studentlife.gatech.edu/dean-griffin-hip-pocket-fund)
