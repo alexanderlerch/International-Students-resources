@@ -6,7 +6,7 @@ The Trump administration's executive orders, policies and process changes [^2][^
 This repository collects information and links to resources for international students to understand requirements, prepare and implement best practices, and enable informed decisions. Please consider contributing additional information through a PR, an issue, or by sending me an [email](mailto:alexander.lerch@gatech.edu).
 
 ## General info and resources
-* options for [legal advise](https://isss.oie.gatech.edu/content/seeking-legal-consultation-us) with [potential financial support](https://star.studentlife.gatech.edu/dean-griffin-hip-pocket-fund)
+* options for [legal advice](https://isss.oie.gatech.edu/content/seeking-legal-consultation-us) with [potential financial support](https://star.studentlife.gatech.edu/dean-griffin-hip-pocket-fund)
 * [OIE FAQs](https://isss.oie.gatech.edu/frequently-asked-questions)
 
 ## Best practices
@@ -17,7 +17,7 @@ This repository collects information and links to resources for international st
 * **minimize international travel**, and keep [relevant documents](https://isss.oie.gatech.edu/content/travel) (passport, visa, I-20, copy of transcript or EAD) with you when traveling
 
 ## Revoked visas
-The number of revoked visas and terminations of legal status has been risen in recent days[^4][^5][^6] and the official [OIE pages](https://isss.oie.gatech.edu/content/visa-revocation) are only somewhat helpful. [This document](https://pennstatelaw.psu.edu/sites/default/files/newFact%20sheet%20for%20international%20students%20FINAL%20VERSION%5B63%5D.pdf) provides more legal background on this matter. Multiple law suits have been filed [^7] and a temporary restraining order granted.[^8] Students with revoked visas should seek legal advice immediately.
+The number of revoked visas and terminations of legal status has been risen in recent days[^4][^5][^6] and the official [OIE pages](https://isss.oie.gatech.edu/content/visa-revocation) are only somewhat helpful. [This document](https://pennstatelaw.psu.edu/sites/default/files/newFact%20sheet%20for%20international%20students%20FINAL%20VERSION%5B63%5D.pdf) provides more legal background on this matter. Multiple law suits have been filed [^7] and a temporary restraining order granted.[^8] Students with revoked visas should seek [legal advice](https://isss.oie.gatech.edu/content/seeking-legal-consultation-us) immediately.
 
 
 
