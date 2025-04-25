@@ -18,7 +18,7 @@ This repository collects information and links to resources for international st
 
 ## Revoked visas
 The number of revoked visas and terminations of legal status has been risen in recent days[^4][^5][^6] and the official [OIE pages](https://isss.oie.gatech.edu/content/visa-revocation) are only somewhat helpful. [This document](https://pennstatelaw.psu.edu/sites/default/files/newFact%20sheet%20for%20international%20students%20FINAL%20VERSION%5B63%5D.pdf) provides more legal background on this matter. Multiple law suits have been filed [^7] and a temporary restraining order granted.[^8] Students with revoked visas should seek [legal advice](https://isss.oie.gatech.edu/content/seeking-legal-consultation-us) immediately.
-
+**Update** (Apr 25): It looks like such [revocations are paused](https://www.nytimes.com/2025/04/25/us/politics/trump-student-visa-cancellations.html) for now.
 
 
 ## Travel and reentry
